@@ -1,4 +1,4 @@
-<h1 align="center">XlSpy<h1>
+<h1 align="center"><a href="https://discord.com/oauth2/authorize?client_id=1100419913971150868&permissions=697932531712&scope=applications.commands%20bot">XlSpy</a><h1>
 <p align="center">
   <img src="https://xlucazzz.dev/xlspy.png" width="143px" />
 </p>
