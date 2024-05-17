@@ -7,7 +7,7 @@
 Seu aliado na prevenção contra cheaters
 </p>
 
-## Sobre o Projeto
+### Sobre o Projeto
 
 Trata-se de uma aplicação criada com o intuito de facilitar a identificação de usuários que utilizam trapaça na plataforma FiveM desde o momento em que o mesmo acessa seu servidor de Discord.
 
